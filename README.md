@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on a semi secret project
 - 🤔 I’m looking for help with FRONTEND, i just hate Frontend
 - 💬 Ask me about anything, i love the unknown.
-- 📫 How to reach me: moron@nece.contact or s
+- 📫 How to reach me: moron@nece.contact or necenzurat@gmail.com
 - 😄 Pronouns: hey you, they, bă ăla
 - ⚡ Fun fact: eat (sometimes), drink, code, party, no sleep, repeat.
 
