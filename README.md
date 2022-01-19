@@ -10,9 +10,12 @@
 - 😄 Pronouns: hey you, they, bă ăla
 - ⚡ Fun fact: eat (sometimes), drink, code, party, no sleep, repeat.
 
-#### Currently learning:
 
-```
+<details>
+<summary>Trying to learn by heart</summary>
+<p>
+
+```text
 I'm a modern man. 
 A man for the millenium. 
 Digital and smoke free. 
@@ -57,5 +60,4 @@ I party hardy and lunchtime is crunchtime.
 I'm hanging in, there ain't no doubt, and I'm hanging tough, over and out.
 
 © George Carlin
-
 ```
