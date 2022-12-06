@@ -15,7 +15,7 @@
  <a href="https://www.linkedin.com/in/necenzurat/" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="necenzurat" />
  </a>
- <a href="https://wakatime.com/necenzurat/" target="blank">
+ <a href="https://wakatime.com/@necenzurat/" target="blank">
   <img src="https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg?style=for-the-badge" alt="necenzurat" />
  </a>
 </p>
