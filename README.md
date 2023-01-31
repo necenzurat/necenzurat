@@ -1,4 +1,4 @@
-### Hi there 👋  number ![](https://komarev.com/ghpvc/?username=necenzurat&style=flat-square&label=Stalker) [![Follow ME](https://img.shields.io/github/followers/necenzurat?label=Follow&style=social)]
+### Hi there 👋  number ![](https://komarev.com/ghpvc/?username=necenzurat&style=flat-square&label=Stalker) ![](https://img.shields.io/github/followers/necenzurat?label=Follow&style=social)
 
 
 - 🔭 I’m currently working on, more stuff than I can handle
